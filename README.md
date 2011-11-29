@@ -1,7 +1,7 @@
 nuts
 ====
 
-nuts is a command line tool for listing and installing fonts from the fontsquirrel site.
+nuts is a command line tool for listing and installing fonts from the [fontsquirrel.com](http://fontsquirrel.com) site.
 
 Installation
 ------------
@@ -44,3 +44,9 @@ You can get the relevant **font-family** name from the abpve file.  This font-fa
     h1 {
       font-family: 'DroidSerifRegular';
     } 
+
+
+License                                                                                                                                                                               
+-------
+
+MIT License.
