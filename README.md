@@ -18,7 +18,7 @@ Synopsis
 Example Usage
 -------------
 
-     $ nuts list [font search term]
+     $ nuts list serif
      afta-serif
      Bitstream-Vera-Serif
      DejaVu-Serif
